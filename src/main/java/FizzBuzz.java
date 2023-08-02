@@ -8,6 +8,7 @@ public class FizzBuzz {
      * is perfectly divisible by another number.
      * The modulus operator returns the remainder after a division (eg 8%3=2).
      *
+     * 
      * If you try to copy answers from the internet, you will probably get this challenge wrong. The premise is
      * slightly simpler than the classic fizzbuzz problem.
      *
